@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @muellerjo alias Jonas Müller
 - 👀 I’m interested in Data Science, Machine Learning and Automation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on interesting project
 - 📫 You canreach me via Twitter, Mail, etc.
 
 <!---
